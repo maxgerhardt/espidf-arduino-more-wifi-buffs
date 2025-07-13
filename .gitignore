@@ -4,3 +4,4 @@ managed_components/
 dependencies.lock
 # Don't commit this file, always let it be rebuilt cleanly from the sdkconfig.defaults
 sdkconfig.freenove_esp32_s3_wroom
+*.map
